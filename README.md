@@ -28,6 +28,8 @@ treeseg has been developed and tested on Ubuntu 20.04 LTS only, and is dependent
 These dependencies are installed via apt:
 
 ```
+apt-get update;
+apt-get install -y git cmake;
 apt install libpcl-dev libarmadillo-dev
 ```
 
